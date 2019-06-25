@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.Write("child change");
+            Console.Write("from child in visual studio change");
         }
     }
 }
